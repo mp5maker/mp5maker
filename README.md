@@ -37,6 +37,18 @@
 <br />
 <br />
 
+---
+
+
+[![Photon's github stats](https://github-readme-stats.vercel.app/api?username=mp5maker&show_icons=true)](https://github.com/mp5maker/github-readme-stats)
+
+---
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mp5maker)](https://github.com/mp5maker/github-readme-stats)
+
+---
+
 [website]: https://heroku-react-pixie.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/shabuktaginkhan/
 [blog]: https://photons-blog.netlify.app/
