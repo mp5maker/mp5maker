@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **React**, **React Native**, **Angular JS 1.0** (legacy project)
 - 🌱 I’m currently learning **Blender**, **Figma** and **Three.JS**
 - 👯 I’m looking to collaborate on **React Utilities**
-- 🥅 2020 Goals: Contribute more to **Open Source Projects**
+- 🥅 Goals: Contribute more to **Open Source Projects**
 - ⚡ Fun fact: I used to play guitar for a rock band
 
 
@@ -48,7 +48,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mp5maker)](https://github.com/mp5maker/github-readme-stats)
 
 ---
-
+[https://www.codewars.com/users/mp5maker/badges/large)
 [website]: https://heroku-react-pixie.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/shabuktaginkhan/
 [blog]: https://photons-blog.netlify.app/
