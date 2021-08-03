@@ -2,11 +2,11 @@
 
 ## I'm a Senior Software Engineer
 
-- 🔭  I’m currently working on **React**, **React Native**, **Angular JS 1.0** (legacy project)
-- 🌱  I’m currently learning **Blender**, **Figma** and **Three.JS**
-- 👯  I’m looking to collaborate on **React Utilities**
-- 🥅  Goals: Contribute more to **Open Source Projects**
-- ⚡  Fun fact: I used to play guitar for a rock band
+ 🔭  I’m currently working on **React**, **React Native**, **Angular JS 1.0** (legacy project)
+ 🌱  I’m currently learning **Blender**, **Figma** and **Three.JS**
+ 👯  I’m looking to collaborate on **React Utilities**
+ 🥅  Goals: Contribute more to **Open Source Projects**
+ ⚡  Fun fact: I used to play guitar for a rock band
 
 ### Connect with me:
 
