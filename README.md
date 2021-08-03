@@ -17,6 +17,7 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />][hackerrank]
 [<img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" />][codeacademy]
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium]
 
 [<img align="left" alt="HTML5" src="https://www.codewars.com/users/mp5maker/badges/large" />][codewar] <br/>
 
@@ -99,7 +100,6 @@
 ---
 
 [<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />][website]
-[<img src="hhttps://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>][website]
 
 
 ---
@@ -118,3 +118,4 @@
 [hackerrank]: https://www.hackerrank.com/photonkhan
 [codewar]: https://www.codewars.com/users/mp5maker
 [codeacademy]: https://www.codecademy.com/profiles/mp5maker
+[medium]: https://khan-photon.medium.com/
