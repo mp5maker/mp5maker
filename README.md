@@ -9,15 +9,14 @@
 * ⚡  &nbsp; Fun fact: I used to play guitar for a rock band
 
 ----
-### Connect with me:
-[🌐 &nbsp; Portfolio ][website]
-
-
+### [🌐 &nbsp; Connect with me ][website]
 [<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />][blog]
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium]
+
 [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />][hackerrank]
 [<img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" />][codeacademy]
-[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium]
+[<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />][leetcode]
 
 [<img align="left" alt="HTML5" src="https://www.codewars.com/users/mp5maker/badges/large" />][codewar] <br/>
 
@@ -118,3 +117,4 @@
 [codewar]: https://www.codewars.com/users/mp5maker
 [codeacademy]: https://www.codecademy.com/profiles/mp5maker
 [medium]: https://khan-photon.medium.com/
+[leetcode]: https://leetcode.com/user8791Zv/
