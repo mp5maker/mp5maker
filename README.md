@@ -2,19 +2,11 @@
 
 ## I'm a Senior Software Engineer
 
-<div style="display:flex; justify-content: space-between;">
-<div style="margin-right: 16px">
-
 * 🔭  &nbsp;Working on **React**, **React Native**, **Django**, **Flask**, **Express**
 * 🌱  &nbsp;Learning **Machine Learning**, **Pentetration Testing** and **Software Architecture**
 * 👯  &nbsp;Looking to collaborate on **Open Source Repositories**
 * 🥅  &nbsp;Goals: Learn more about **Swift** and **Nest.js**
 * ⚡  &nbsp;Fun fact: I used to play guitar for a rock band
-</div>
-<div style="display:flex; justify-content:center; align-items: center">
-  <img src="https://heroku-react-pixie.herokuapp.com/ok.png" width="80"/>
-</div>
-</div>
 
 ----
 ### [🌐 &nbsp; Connect with me ][website]
