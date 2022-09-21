@@ -2,6 +2,8 @@
 
 ## I'm a Senior Software Engineer
 
+<img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
 * 🔭  &nbsp;Working on **React**, **React Native**, **Django**, **Flask**, **Express**
 * 🌱  &nbsp;Learning **Machine Learning**, **Pentetration Testing** and **Software Architecture**
 * 👯  &nbsp;Looking to collaborate on **Open Source Repositories**
@@ -114,11 +116,11 @@
 
 ---
 
-[![Photon's github stats](https://github-readme-stats.vercel.app/api?username=mp5maker&show_icons=true)](https://github.com/mp5maker/github-readme-stats)
+[![Photon's github stats](https://github-readme-stats.vercel.app/api?username=mp5maker&show_icons=true&theme=dark)](https://github.com/mp5maker/github-readme-stats)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mp5maker)](https://github.com/mp5maker/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mp5maker&theme=dark)](https://github.com/mp5maker/github-readme-stats)
 
 ---
 
