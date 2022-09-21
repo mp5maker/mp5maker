@@ -2,11 +2,19 @@
 
 ## I'm a Senior Software Engineer
 
-* 🔭  &nbsp;I’m currently working on **React**, **React Native**, **Django**, **Flask**, **Express**
-* 🌱  &nbsp; I’m currently learning **Machine Learning**, **Pentetration Testing** and **Software Architecture**
-* 👯  &nbsp; I’m looking to collaborate on **Open Source Repositories**
-* 🥅  &nbsp; Goals: Learn more about **Swift** and **Nest.js**
-* ⚡  &nbsp; Fun fact: I used to play guitar for a rock band
+<div style="display:flex;">
+<div style="margin-right: 35px">
+
+* 🔭  &nbsp;Working on **React**, **React Native**, **Django**, **Flask**, **Express**
+* 🌱  &nbsp;Learning **Machine Learning**, **Pentetration Testing** and **Software Architecture**
+* 👯  &nbsp;Looking to collaborate on **Open Source Repositories**
+* 🥅  &nbsp;Goals: Learn more about **Swift** and **Nest.js**
+* ⚡  &nbsp;Fun fact: I used to play guitar for a rock band
+</div>
+<div style="display:flex; justify-content:center; align-items: center">
+  <img src="https://heroku-react-pixie.herokuapp.com/ok.png" width="80"/>
+</div>
+</div>
 
 ----
 ### [🌐 &nbsp; Connect with me ][website]
@@ -28,8 +36,10 @@
 
 ### Languages and Tools:
 
-[<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />][website]
 [<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />][website]
+[<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />][website]
+[<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />][website]
+[<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />][website]
 [<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />][website]
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&Xlogo=html5&logoColor=white" />][website]
 [<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />][website]
@@ -81,11 +91,9 @@
 [<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />][website]
 <br />
 
-[<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />][website]
 [<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />][website]
 [<img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />][website]
 [<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />][website]
-[<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />][website]
 <br />
 
 ---
