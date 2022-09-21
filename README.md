@@ -1,4 +1,5 @@
-### Hi there, I'm Shabuktagin Photon Khan -aka [Photon][website] 👋
+![Profile views](https://gpvc.arturio.dev/mp5maker)
+### Hi there, I'm Shabuktagin Photon Khan -aka [Photon][website] 👋 
 
 ## I'm a Senior Software Engineer
 
