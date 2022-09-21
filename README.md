@@ -2,8 +2,8 @@
 
 ## I'm a Senior Software Engineer
 
-<div style="display:flex;">
-<div style="margin-right: 35px">
+<div style="display:flex; justify-content: space-between;">
+<div style="margin-right: 16px">
 
 * 🔭  &nbsp;Working on **React**, **React Native**, **Django**, **Flask**, **Express**
 * 🌱  &nbsp;Learning **Machine Learning**, **Pentetration Testing** and **Software Architecture**
