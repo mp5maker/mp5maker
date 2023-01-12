@@ -3,7 +3,7 @@
 
 ## I'm a Senior Software Engineer
 
-<a href="https://app.daily.dev/mp5maker"><img src="https://api.daily.dev/devcards/eacf6bc6f89c4464afda192d31fcda14.png?r=xxv" width="30%" align="right" alt="Shabuktagin Photon Khan's Dev Card"/></a>
+<a href="https://app.daily.dev/mp5maker"><img src="https://api.daily.dev/devcards/eacf6bc6f89c4464afda192d31fcda14.png?r=xxv" width="160" align="right" alt="Shabuktagin Photon Khan's Dev Card"/></a>
 
 * 🔭  &nbsp;Working on **React**, **React Native**, **Django**, **Flask**, **Express**
 * 🌱  &nbsp;Learning **Machine Learning**, **Pentetration Testing** and **Software Architecture**
