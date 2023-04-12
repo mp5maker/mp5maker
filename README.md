@@ -78,21 +78,17 @@
 ![Protractor](https://img.shields.io/static/v1?style=for-the-badge&message=Protractor&color=ED163A&logo=Protractor&logoColor=FFFFFF&label=)
 ![Chai](https://img.shields.io/static/v1?style=for-the-badge&message=Chai&color=A30701&logo=Chai&logoColor=FFFFFF&label=)
 ![Mocha](https://img.shields.io/static/v1?style=for-the-badge&message=Mocha&color=8D6748&logo=Mocha&logoColor=FFFFFF&label=)
-
 [<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />][website]
 [<img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" />][website]
 [<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />][website]
 ![Swagger](https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&color=222222&logo=Swagger&logoColor=85EA2D&label=)
-
 ![Vitest](https://img.shields.io/static/v1?style=for-the-badge&message=Vitest&color=6E9F18&logo=Vitest&logoColor=FFFFFF&label=)
-
 ![Pytest](https://img.shields.io/static/v1?style=for-the-badge&message=Pytest&color=0A9EDC&logo=Pytest&logoColor=FFFFFF&label=)
 <br />
 
 ---
 [<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />][website]
 [<img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" />][website]
-
 <br />
 
 ---
@@ -132,6 +128,7 @@
 
 ---
 
+![SemVer](https://img.shields.io/static/v1?style=for-the-badge&message=SemVer&color=3F4551&logo=SemVer&logoColor=FFFFFF&label=)
 [<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />][website]
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 ![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)
@@ -140,7 +137,6 @@
 [<img src="https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white" />][website]
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 [<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />][website]
-
 ![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)
 ![DigitalOcean](https://img.shields.io/static/v1?style=for-the-badge&message=DigitalOcean&color=0080FF&logo=DigitalOcean&logoColor=FFFFFF&label=)
 ![Netlify](https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=222222&logo=Netlify&logoColor=00C7B7&label=)
@@ -158,7 +154,6 @@
 ---
 [<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />][website]
 ![Sublime Text](https://img.shields.io/static/v1?style=for-the-badge&message=Sublime+Text&color=222222&logo=Sublime+Text&logoColor=FF9800&label=)
-
 <br />
 
 ---
