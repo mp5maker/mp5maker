@@ -61,6 +61,8 @@
 ![Lodash](https://img.shields.io/static/v1?style=for-the-badge&message=Lodash&color=3492FF&logo=Lodash&logoColor=FFFFFF&label=)
 ![PWA](https://img.shields.io/static/v1?style=for-the-badge&message=PWA&color=5A0FC8&logo=PWA&logoColor=FFFFFF&label=)
 ![i18next](https://img.shields.io/static/v1?style=for-the-badge&message=i18next&color=26A69A&logo=i18next&logoColor=FFFFFF&label=)
+![Apache ECharts](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+ECharts&color=AA344D&logo=Apache+ECharts&logoColor=FFFFFF&label=)
+![Chart.js](https://img.shields.io/static/v1?style=for-the-badge&message=Chart.js&color=FF6384&logo=Chart.js&logoColor=FFFFFF&label=)
 <br />
 
 ---
