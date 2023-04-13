@@ -175,7 +175,7 @@
 <br />
 
 
-<!-- ---
+---
 
 ![Photon's github stats](https://github-readme-stats-mp5maker.vercel.app/api?username=mp5maker&show_icons=true&theme=dark)
 
@@ -183,7 +183,7 @@
 
 ![Top Langs](https://github-readme-stats-mp5maker.vercel.app/api/top-langs/?username=mp5maker&theme=dark)
 
---- -->
+---
 
 [website]: https://react-pixie.vercel.app/
 [gitlab]: https://gitlab.com/khan.photon
