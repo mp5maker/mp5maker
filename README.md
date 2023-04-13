@@ -177,11 +177,11 @@
 
 ---
 
-[![Photon's github stats](https://github-readme-stats-six-eta-58.vercel.app/api?username=mp5maker&show_icons=true&theme=dark)](https://github.com/mp5maker/github-readme-stats)
+[![Photon's github stats](https://github-readme-stats-mp5maker.vercel.app/api?username=mp5maker&show_icons=true&theme=dark)](https://github.com/mp5maker/github-readme-stats)
 
 ---
 
-[![Top Langs](https://github-readme-stats-six-eta-58.vercel.app/api/top-langs/?username=mp5maker&theme=dark)](https://github.com/mp5maker/github-readme-stats)
+[![Top Langs](https://github-readme-stats-mp5maker.vercel.app/api/top-langs/?username=mp5maker&theme=dark)](https://github.com/mp5maker/github-readme-stats)
 
 ---
 
