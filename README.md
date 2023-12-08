@@ -25,11 +25,86 @@
 
 <br/>
 
+```mermaid
+mindmap
+root((Career))
+  Frontend
+    html5
+    ::icon(fa-brands fa-html5)
+    css
+    ::icon(fa-brands fa-css3-alt)
+      sass
+      ::icon(fa-brands fa-sass)
+    javascript
+    ::icon(fa-brands fa-js)
+    tool
+      gulp
+      grunt
+      typescript
+        tool
+          webpack
+          rollup
+          vite
+        react
+        ::icon(fa-brands fa-react)
+          redux
+          mobx
+          react-router
+          react-query
+          react-native
+            expo
+          ssr
+          graphql
+        vue
+        ::icon(fa-brands fa-vuejs)
+          pinia/vuex
+          vue-router
+          vuetify
 
+  Backend
+    javascript
+    ::icon(fa-brands fa-js)
+      typescript
+        node.js
+        ::icon(fa-brands fa-node-js)
+        express
+          postgres
+          ::icon(fa-solid fa-database)
+        redis
+        elasticsearch
+    python
+    ::icon(fa-brands fa-python)
+      flask
+          postgres
+          ::icon(fa-solid fa-database)
+      django
+          postgres
+          ::icon(fa-solid fa-database)
+          oracle sql database
+          ::icon(fa-solid fa-database)
+    php
+    ::icon(fa-brands fa-php)
+      mysql
+      ::icon(fa-solid fa-database)
 
-----
+  Environment
+    Docker
+    Docker-Compose
+
+  Testing
+    Jasmine
+    Chai
+    Mocha
+    Jest
+    @testing-library
+
+  Server
+    Digital Ocean
+```
 
 ### Languages and Tools:
+----
+
 
 [<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />][website]
 [<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />][website]
