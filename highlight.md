@@ -2,6 +2,9 @@
 mindmap
 root((Career))
   Frontend
+    ui/ux
+      figma
+      ::icon(fa-brands fa-figma)
     html5
     ::icon(fa-brands fa-html5)
     css
@@ -10,29 +13,34 @@ root((Career))
       ::icon(fa-brands fa-sass)
     javascript
     ::icon(fa-brands fa-js)
-    tool
-      gulp
-      grunt
       typescript
         tool
-          webpack
-          rollup
-          vite
-        react
-        ::icon(fa-brands fa-react)
-          redux
-          mobx
-          react-router
-          react-query
-          react-native
-            expo
-          ssr
-          graphql
-        vue
-        ::icon(fa-brands fa-vuejs)
-          pinia/vuex
-          vue-router
-          vuetify
+          gulp
+          ::icon(fa-brands fa-gulp)
+          grunt
+            ::icon(fa-brands fa-grunt)
+            tool
+              webpack
+              rollup
+              vite
+            react
+            ::icon(fa-brands fa-react)
+              global
+                redux, redux-toolkit
+                mobx
+              react-router
+              react-query
+              ssr
+                nextjs
+              graphql
+              react-native
+                expo
+                  react-navigation
+            vue
+            ::icon(fa-brands fa-vuejs)
+              pinia/vuex
+              vue-router
+              vuetify
 
   Backend
     javascript
@@ -45,11 +53,14 @@ root((Career))
           ::icon(fa-solid fa-database)
         redis
         elasticsearch
+        swagger
+        supertest
     python
     ::icon(fa-brands fa-python)
       flask
           postgres
           ::icon(fa-solid fa-database)
+            flask-sqlalchemy
       django
           postgres
           ::icon(fa-solid fa-database)
@@ -60,9 +71,15 @@ root((Career))
       mysql
       ::icon(fa-solid fa-database)
 
-  Environment
+  DevOps
     docker
+    ::icon(fa-brands fa-docker)
     docker-compose
+    ::icon(fa-brands fa-docker)
+    terraform
+    ansible
+      Digital Ocean
+      ::icon(fa-brands fa-digital-ocean)
 
   Testing
     jasmine
@@ -72,7 +89,27 @@ root((Career))
     @testing-library
     cypress
     jmeter
+    detox
 
-  Server
-    Digital Ocean
+  Other
+    Interviews
+      Hiring
+      Rating/Report
+      Questionnaire
+    Lead
+      Frontend
+    Trained
+      Frontend
+      QA
+
+  Collaboration
+    Clickup
+    Jira
+    Slack
+    Onethread
+    Trello
+    Github
+    ::icon(fa-brands fa-git)
+    Gitlab
+    Bitbucket
 ```
