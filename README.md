@@ -177,9 +177,8 @@
 
 ---
 
-[<img src="https://github-readme-stats-six-eta-58.vercel.app/api?username=mp5maker&show_icons=true&theme=transparent&count_private=true" />][website]
-
-[<img src="https://github-readme-stats-six-eta-58.vercel.app/api/top-langs/?username=mp5maker&theme=transparent&count_private=true" />][website]
+[<img decoding="async" loading="lazy" align="center" alt="mp5maker's GitHub Stats" src="https://github-readme-stats-six-eta-58.vercel.app/api?username=mp5maker&show_icons=true&theme=transparent&count_private=true" />][website]
+[<img decoding="async" loading="lazy" align="center" alt="mp5maker's GitHub Stats" src="https://github-readme-stats-six-eta-58.vercel.app/api/top-langs/?username=mp5maker&theme=transparent&count_private=true" />][website]
 
 ---
 
