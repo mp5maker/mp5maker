@@ -6,7 +6,7 @@
 <a href="https://app.daily.dev/mp5maker"><img src="https://api.daily.dev/devcards/eacf6bc6f89c4464afda192d31fcda14.png?r=xxv" width="160" align="right" alt="Shabuktagin Photon Khan's Dev Card"/></a>
 
 * 🔭  &nbsp;Working on **React**, **React Native**, **Django**, **Flask**, **Express**
-* 🌱  &nbsp;Learning **DevOps**, **Pentetration Testing**, **ML Models**, **Lang Chain**
+* 🌱  &nbsp;Learning **DevOps**, **Pen Testing**, **ML Models**, **Lang Chain**
 * 👯  &nbsp;Looking to collaborate on **Open Source Repositories**
 * 🥅  &nbsp;Goals: Learn more about **Swift**
 * ⚡   &nbsp;Fun fact: I used to play guitar for a rock band
