@@ -5,11 +5,11 @@
 
 <a href="https://app.daily.dev/mp5maker"><img src="https://api.daily.dev/devcards/eacf6bc6f89c4464afda192d31fcda14.png?r=xxv" width="160" align="right" alt="Shabuktagin Photon Khan's Dev Card"/></a>
 
-* 🔭  &nbsp;Working on **React**, **React Native**, **Django**, **Flask**, **Express**
-* 🌱  &nbsp;Learning **DevOps**, **Pen Testing**, **ML Models**, **Lang Chain**
+* 🔭  &nbsp;Working on **React**, **React Native**, **Django**, **Flask**, **Express** **Langchain** **ML Models**
+* 🌱  &nbsp;Learning **Pen Testing**, **Rust**, **Go** **Terraform** **Ansible**
 * 👯  &nbsp;Looking to collaborate on **Open Source Repositories**
-* 🥅  &nbsp;Goals: Learn more about **Swift**
-* ⚡   &nbsp;Fun fact: I used to play guitar for a rock band
+* 🥅  &nbsp;Goals: Learn more about **DevOps**
+* ⚡   &nbsp;Fun fact: I play guitar, video editing, advice on UI/UX, train/onboard members to company
 
 ----
 ### [🌐 &nbsp; Connect with me ][website]
