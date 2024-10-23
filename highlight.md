@@ -1,10 +1,10 @@
 ```mermaid
 mindmap
 root((Career))
+  UI/UX
+    figma
+    ::icon(fa-brands fa-figma)
   Frontend
-    ui/ux
-      figma
-      ::icon(fa-brands fa-figma)
     html5
     ::icon(fa-brands fa-html5)
     css
@@ -14,6 +14,31 @@ root((Career))
     javascript
     ::icon(fa-brands fa-js)
       typescript
+        react
+        ::icon(fa-brands fa-react)
+          global store
+            redux, redux-toolkit
+            mobx
+          react-router
+          react-query
+          ssr
+            nextjs
+          ui
+            material-ui
+            shadcn-ui
+          graphql
+          react-native
+            expo
+              react-navigation
+          storybook
+        vue
+        ::icon(fa-brands fa-vuejs)
+          pinia/vuex
+          vue-router
+          vuetify
+        angular
+        ::icon(fa-brands fa-angular)
+          rxjs
         tool
           gulp
           ::icon(fa-brands fa-gulp)
@@ -23,24 +48,18 @@ root((Career))
               webpack
               rollup
               vite
-            react
-            ::icon(fa-brands fa-react)
-              global
-                redux, redux-toolkit
-                mobx
-              react-router
-              react-query
-              ssr
-                nextjs
-              graphql
-              react-native
-                expo
-                  react-navigation
-            vue
-            ::icon(fa-brands fa-vuejs)
-              pinia/vuex
-              vue-router
-              vuetify
+        testing
+          jasmine
+          chai
+          mocha
+          jest
+          @testing-library
+          cypress
+          detox
+        other
+          konva.js
+          react-three-fiber
+          three.js
 
   Backend
     javascript
@@ -51,65 +70,71 @@ root((Career))
         express
           postgres
           ::icon(fa-solid fa-database)
-        redis
-        elasticsearch
-        swagger
-        supertest
-    python
-    ::icon(fa-brands fa-python)
+        nestjs
+        orm
+          sequelize
+          typeorm
+        testing
+          supertest
+          jest
+    python:
+      ::icon(fa-brands fa-python)
       flask
-          postgres
-          ::icon(fa-solid fa-database)
-            flask-sqlalchemy
+        flask-sqlalchemy
       django
-          postgres
-          ::icon(fa-solid fa-database)
-          oracle sql database
-          ::icon(fa-solid fa-database)
     php
     ::icon(fa-brands fa-php)
+      raw
+    database
+      postgres
+      oracle sql database
       mysql
-      ::icon(fa-solid fa-database)
-
-  DevOps
-    docker
-    ::icon(fa-brands fa-docker)
-    docker-compose
-    ::icon(fa-brands fa-docker)
-    terraform
-    ansible
-      Digital Ocean
-      ::icon(fa-brands fa-digital-ocean)
+      mongodb
+    redis
+    elasticsearch
+    swagger
+    machine learning
+      prompt engineering
 
   Testing
-    jasmine
-    chai
-    mocha
-    jest
-    @testing-library
-    cypress
+    postman
+    insomnia
     jmeter
-    detox
 
-  Other
-    Interviews
-      Hiring
-      Rating/Report
-      Questionnaire
-    Lead
-      Frontend
-    Trained
-      Frontend
-      QA
+  DevOps
+    terraform
+    ansible
+    docker
+    ::icon(fa-brands fa-docker)
+      docker-compose
+      ::icon(fa-brands fa-docker)
+    hosting platforms
+      Digital Ocean
+      ::icon(fa-brands fa-digital-ocean)
+      AWS
+      ::icon(fa-brands fa-aws)
 
   Collaboration
-    Clickup
-    Jira
-    Slack
-    Onethread
-    Trello
-    Github
-    ::icon(fa-brands fa-git)
-    Gitlab
-    Bitbucket
+    interviews
+      hiring
+    lead
+      frontend
+    trained
+      frontend
+      qa
+      full-stack
+    task assignment
+      jira
+      clickup
+      trello
+      onethread
+    communication
+      slack
+    code
+      github
+      ::icon(fa-brands fa-git)
+      Gitlab
+      ::icon(fa-brands fa-gitlab)
+      Bitbucket
+      ::icon(fa-brands fa-bitbucket)
 ```

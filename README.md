@@ -1,23 +1,26 @@
 ![](https://komarev.com/ghpvc/?username=mp5maker&color=brightgreen)
-### Hi there, I'm Shabuktagin Photon Khan -aka [Photon][website] 👋 
+
+### Hi there, I'm Shabuktagin Photon Khan -aka [Photon][website] 👋
 
 ## I'm a Senior Software Engineer (Full Stack Engineer)
 
 <a href="https://app.daily.dev/mp5maker"><img src="https://api.daily.dev/devcards/eacf6bc6f89c4464afda192d31fcda14.png?r=xxv" width="160" align="right" alt="Shabuktagin Photon Khan's Dev Card"/></a>
 
-* 🔭  &nbsp;Working on
-  * **React**, **Nextjs**
-  * **React Native**
-  * **Django**, **Flask**
-  * **Express**, **Nestjs**
-  * **Langchain**, **ML Models**
+- 🔭 &nbsp;Working on
+  - **React**, **Nextjs**
+  - **React Native**
+  - **Vue**, **Angular**
+  - **Django**, **Flask**
+  - **Express**, **Nestjs**
+  - **Langchain**, **ML Models**
+- 🌱 &nbsp;Learning **AWS**, **Rust**, **Web Assembly**
+- 🥅 &nbsp;Goals: Learn more about **Go**, **Pen Testing**,  **Terraform**, **Ansible**
+- ⚡ &nbsp;Fun fact: I play guitar, video editing, advice on UI/UX, train/onboard members to company
 
-* 🌱  &nbsp;Learning **Pen Testing**, **Rust**, **Go** ,**Terraform**, **Ansible**
-* 🥅  &nbsp;Goals: Learn more about **DevOps**
-* ⚡   &nbsp;Fun fact: I play guitar, video editing, advice on UI/UX, train/onboard members to company
+---
 
-----
 ### [🌐 &nbsp; Connect with me ][website]
+
 [<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />][blog]
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium]
@@ -33,8 +36,8 @@
 <img alt="Career" src="./images/highlight.png" /> <br/>
 
 ### Languages and Tools:
-----
 
+---
 
 [<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />][website]
 [<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />][website]
@@ -77,6 +80,7 @@
 <br />
 
 ---
+
 [<img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />][website]
 [<img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />][website]
 [<img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" />][website]
@@ -94,11 +98,13 @@
 <br />
 
 ---
+
 [<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />][website]
 [<img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" />][website]
 <br />
 
 ---
+
 [<img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" />][website]
 [<img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />][website]
 ![Vite](https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label=)
@@ -159,6 +165,7 @@
 <br />
 
 ---
+
 [<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />][website]
 ![Sublime Text](https://img.shields.io/static/v1?style=for-the-badge&message=Sublime+Text&color=222222&logo=Sublime+Text&logoColor=FF9800&label=)
 <br />
@@ -170,15 +177,14 @@
 [<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />][website]
 <br />
 
-
 ---
+
 ![Stack Overflow](https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=F58025&logo=Stack+Overflow&logoColor=FFFFFF&label=)
 ![Slack](https://img.shields.io/static/v1?style=for-the-badge&message=Slack&color=4A154B&logo=Slack&logoColor=FFFFFF&label=)
 ![ClickUp](https://img.shields.io/static/v1?style=for-the-badge&message=ClickUp&color=7B68EE&logo=ClickUp&logoColor=FFFFFF&label=)
 ![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)
 ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
 <br />
-
 
 ---
 
@@ -188,12 +194,7 @@
 
 ---
 
-
 https://github.com/mp5maker/mp5maker/assets/10275597/74d697bd-fc9c-4e72-b7a9-ea82d1334eb1
-
-
-
-
 
 [website]: https://react-pixie.vercel.app/
 [gitlab]: https://gitlab.com/khan.photon
