@@ -196,6 +196,25 @@
 
 https://github.com/mp5maker/mp5maker/assets/10275597/74d697bd-fc9c-4e72-b7a9-ea82d1334eb1
 
+---
+
+### Hobbie: Guitar Play
+
+> ##### Dreaming
+[![IMAGE ALT TEXT HERE](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-1/457210928_2251794248552734_8847146677718116044_n.jpg?stp=cp0_dst-jpg_s80x80&_nc_cat=107&ccb=1-7&_nc_sid=0ecb9b&_nc_eui2=AeHXqOESioTydRbjEOPfGkWIb-L5uxZFnt9v4vm7FkWe34KDRkOaueV19d-0h8MB-Aml4klqwFDNJY0JkrPMbWUi&_nc_ohc=dBv_RLvvqn8Q7kNvgHIqYHT&_nc_zt=24&_nc_ht=scontent.fdac14-1.fna&_nc_gid=AV6WOcg3iiYnpAIGqRomTsQ&oh=00_AYA2oaKTJPn0VJjOVCKVC2bbZIwBvuWjNepBOxmmyLK2rQ&oe=672AEDAE)](https://www.facebook.com/watch/?v=10151157420220749&rdid=MMrKiyJJGmbGUKtK)
+
+> ##### End of time
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/Cu_VsieG6vI/hqdefault.jpg)](https://www.youtube.com/watch?v=Cu_VsieG6vI&ab_channel=ShabuktaginPhotonKhan)
+
+---
+
+> ##### Auflader - A Death Worth Dying
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/zxFhrpRM2ZI/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRXvNjkhHMgzmSeQ7p8i-6sIsd3A)](https://www.youtube.com/watch?v=zxFhrpRM2ZI&ab_channel=TheLunaticStudios)
+
+
+
+
+
 [website]: https://react-pixie.vercel.app/
 [gitlab]: https://gitlab.com/khan.photon
 [linkedin]: https://www.linkedin.com/in/shabuktaginkhan/

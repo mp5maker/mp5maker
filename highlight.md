@@ -44,10 +44,9 @@ root((Career))
           ::icon(fa-brands fa-gulp)
           grunt
             ::icon(fa-brands fa-grunt)
-            tool
-              webpack
-              rollup
-              vite
+          webpack
+          rollup
+          vite
         testing
           jasmine
           chai
@@ -107,7 +106,7 @@ root((Career))
     docker
     ::icon(fa-brands fa-docker)
       docker-compose
-      ::icon(fa-brands fa-docker)
+      kubernetes
     hosting platforms
       Digital Ocean
       ::icon(fa-brands fa-digital-ocean)
