@@ -13,8 +13,8 @@
   - **Django**, **Flask**
   - **Express**, **Nestjs**
   - **Langchain**, **ML Models**
-- 🌱 &nbsp;Learning **AWS**, **Rust**, **Web Assembly**
-- 🥅 &nbsp;Goals: Learn more about **Go**, **Pen Testing**,  **Terraform**, **Ansible**
+- 🌱 &nbsp;Learning **AWS**, **Go**
+- 🥅 &nbsp;Goals: Learn more about **Terraform**, **Ansible**, **Pen Testing**
 - ⚡ &nbsp;Fun fact: I play guitar, video editing, advice on UI/UX, train/onboard members to company
 
 ---
