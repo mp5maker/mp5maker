@@ -13,9 +13,11 @@
   - **Django**, **Flask**
   - **Express**, **Nestjs**
   - **Langchain**, **ML Models**
-- 🌱 &nbsp;Learning **AWS**, **Go**
-- 🥅 &nbsp;Goals: Learn more about **Terraform**, **Ansible**, **Pen Testing**
-- ⚡ &nbsp;Fun fact: I play guitar, video editing, advice on UI/UX, train/onboard members to company
+- 🌱 &nbsp;Learning **AWS**, **Terraform**, **Cybersecurity**
+- 🥅 &nbsp;Goals: Learn more about  **Ansible**, **.ASP**
+- 🥅 &nbsp;Explored: **Go**, **Rust**
+- 🥅 &nbsp;Management: **Advice**, **Train**, **Interview**
+- ⚡ &nbsp;Fun fact: **Play Guitar**, **Fly Drones**, **Video Editing**
 
 ---
 
