@@ -54,6 +54,7 @@ root((Career))
           jest
           @testing-library
           cypress
+          ::icon(fa-brands fa-c)
           detox
         other
           konva.js
@@ -112,6 +113,24 @@ root((Career))
       ::icon(fa-brands fa-digital-ocean)
       AWS
       ::icon(fa-brands fa-aws)
+        ec2
+        lambda
+        iam
+        ecs
+        s3
+        cloudtrail
+        compliance
+        bedrock
+
+  CyberSecurity
+    kali linux
+      theHarvester
+      Metasploit framework
+      Fatrat
+      Burpsuite
+      Scapy
+      Bettercap
+      Ettercap
 
   Collaboration
     interviews
