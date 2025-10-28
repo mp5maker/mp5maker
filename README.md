@@ -15,7 +15,7 @@
   - **Langchain**, **ML Models**
 - 🥅 &nbsp;Explored: **Go**, **Rust**, **Ethical Hacking**
 - 🥅 &nbsp;Management: **Advice**, **Train**, **Interview**
-- 🌱 &nbsp;Learning **AWS**, **Terraform**, **Ansible**, **.ASP**
+- 🌱 &nbsp;Learning: **AWS**, **Terraform**, **Ansible**, **.ASP**
 - ⚡ &nbsp;Fun fact: **Play Guitar**, **Fly Drones**, **Video Editing**
 
 ---
