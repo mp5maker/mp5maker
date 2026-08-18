@@ -20,7 +20,7 @@
 
 ## 👋 Hi there, I'm Shabuktagin Photon Khan -aka [Photon][website]
 
-**## I'm a Senior Software Engineer (Full Stack Engineer)**
+## **I'm a Senior Software Engineer (Full Stack Engineer)**
 
 <div align="right">
   <a href="https://app.daily.dev/mp5maker">
