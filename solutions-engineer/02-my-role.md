@@ -75,25 +75,7 @@ I am the **technical bridge between the client and R&D/Engineering**.
 
 ---
 
-# What I Need to Practice
-
-## 1. Product Mastery — Highest Priority
-
-For **Isara Advance**, understand:
-
-**Purpose → Features → Architecture → Data Flow → Deployment → Configuration → Troubleshooting → Limitations**
-
-Be able to explain the product differently to:
-
-- Developer
-- System Administrator
-- Security Engineer
-- Technical Manager
-- Non-technical stakeholder
-
----
-
-## 2. Client Environment / Infrastructure
+## 1. Client Environment / Infrastructure
 
 Prioritize:
 
@@ -114,7 +96,7 @@ Prioritize:
 
 ---
 
-## 3. Architecture
+## 2. Architecture
 
 Be able to understand and explain:
 
@@ -133,7 +115,7 @@ Questions I should naturally ask:
 
 ---
 
-## 4. Client Communication
+## 3. Client Communication
 
 For technical questions:
 
