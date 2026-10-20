@@ -67,7 +67,7 @@
 <a href="https://www.codecademy.com/profiles/mp5maker"><img src="https://img.shields.io/badge/Codecademy-0E0A1F?style=for-the-badge&logo=codecademy&logoColor=00F0FF" alt="Codecademy"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=mp5maker&style=for-the-badge&color=ff2bd6&label=visitors" alt="Profile visitors"/>
+<img src="https://hits.sh/github.com/mp5maker.svg?style=for-the-badge&label=visitors&color=ff2bd6&labelColor=0E0A1F" alt="Profile visitors"/>
 
 <img src="images/footer.svg" width="100%" alt=""/>
 
